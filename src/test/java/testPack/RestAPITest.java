@@ -10,6 +10,10 @@ public class RestAPITest {
 	public void postRequest() {
 		System.out.println("Post call in rest");
 	}
+	
+	public void method3InRest() {
+		System.out.println("");
+	}
 
 
 }

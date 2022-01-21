@@ -12,5 +12,9 @@ public class SeleniumTest {
 		
 		System.out.println("close browser through selenium");
 	}
+	
+	public void method3InSelenium() {
+		System.out.println("");
+	}
 
 }
