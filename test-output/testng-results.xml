@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-03T23:47:17 IST" name="Default suite" finished-at="2022-01-03T23:47:34 IST" duration-ms="16968">
+    <groups>
+    </groups>
+    <test started-at="2022-01-03T23:47:17 IST" name="Default test" finished-at="2022-01-03T23:47:34 IST" duration-ms="16968">
+      <class name="HomeAutomation.LoginTC">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:HomeAutomation.LoginTC@4275c20c]" started-at="2022-01-03T23:47:17 IST" name="initialize" finished-at="2022-01-03T23:47:20 IST" duration-ms="2579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="signIn(java.lang.String,java.lang.String)[pri:0, instance:HomeAutomation.LoginTC@4275c20c]" started-at="2022-01-03T23:47:20 IST" name="signIn" data-provider="data" finished-at="2022-01-03T23:47:26 IST" duration-ms="6023" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abcsdcc@qe.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3243123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signIn -->
+        <test-method signature="signIn(java.lang.String,java.lang.String)[pri:0, instance:HomeAutomation.LoginTC@4275c20c]" started-at="2022-01-03T23:47:26 IST" name="signIn" data-provider="data" finished-at="2022-01-03T23:47:29 IST" duration-ms="3750" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[acsdcbc@qv.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3243135123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signIn -->
+        <test-method signature="signIn(java.lang.String,java.lang.String)[pri:0, instance:HomeAutomation.LoginTC@4275c20c]" started-at="2022-01-03T23:47:29 IST" name="signIn" data-provider="data" finished-at="2022-01-03T23:47:33 IST" duration-ms="3817" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[absdfc@qw.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[32438786123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signIn -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:HomeAutomation.LoginTC@4275c20c]" started-at="2022-01-03T23:47:33 IST" name="closeBrowser" finished-at="2022-01-03T23:47:34 IST" duration-ms="752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- HomeAutomation.LoginTC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
