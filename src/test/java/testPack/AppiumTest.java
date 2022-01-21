@@ -10,5 +10,10 @@ public class AppiumTest {
 		System.out.println("Close app in appium");
 	}
 	
+	
+	public void addOneMoreMethod() {
+		System.out.println("Adding one more method");
+	}
+	
 
 }
