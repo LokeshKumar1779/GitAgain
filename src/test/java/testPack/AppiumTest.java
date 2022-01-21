@@ -15,5 +15,10 @@ public class AppiumTest {
 		System.out.println("Adding one more method");
 	}
 	
+	public void method1AddedFromGitStuff() {
+		
+		System.out.println("method1AddedFromGitStuff");
+	}
+	
 
 }
